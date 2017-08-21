@@ -11,3 +11,7 @@ The project consists of 3 files:
 * fresh_tomatoes.py - receives the `movie` objects and builds an html file.
 
 * media.py - contains the code for the class `movie`. The `movie` class contains 6 properties and one method to access the trailer url.
+
+
+# USE
+Launch entertainment_center.py with Python 2.7.11 (I have not tried it with other versions)
