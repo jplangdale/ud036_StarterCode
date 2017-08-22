@@ -3,7 +3,7 @@ import webbrowser
 
 # Joseph Langdale FSND 8-20-2017
 # Movie class structure file for favorite movie web page
-# Version 1
+# Version 2
 
 
 class Movie():
