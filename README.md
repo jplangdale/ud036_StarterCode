@@ -17,8 +17,8 @@ The project consists of 3 files:
 (assumes Python 2.7.11 installed as well as a web browser)
 * Download contents as zip file
 * Unzip
-* In shell (linux or mac) or command prompt (windows) to change
-  to thedirectory the files are located in
+* In shell (linux or mac) or command prompt (windows) change
+  to the directory the unzipped files are located in
 * With Python 2.7.11 use the following command :
   `python entertainment_center.py`
 * program will launch a web browser with the page
