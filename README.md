@@ -13,5 +13,13 @@ The project consists of 3 files:
 * media.py - contains the code for the class `movie`. The `movie` class contains 6 properties and one method to access the trailer url.
 
 
-# USE
-Launch entertainment_center.py with Python 2.7.11 (I have not tried it with other versions)
+# Use
+(assumes Python 2.7.11 installed as well as a web browser)
+* Download contents as zip file
+* Unzip
+* In shell (linux or mac) or command prompt (windows) to change
+  to thedirectory the files are located in
+* With Python 2.7.11 use the following command :
+  `python entertainment_center.py`
+* program will launch a web browser with the page
+  fresh_tomatoes.html
